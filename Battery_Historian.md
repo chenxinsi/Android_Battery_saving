@@ -19,3 +19,4 @@ adb bugreport
 
 上传生成的bugreport信息压缩包至分析地址
 https://bathist.ef.lc/
+<img src="Battery_Historian_014.png" />
