@@ -6,7 +6,7 @@ battery-historian工具需要使用bugreport中的Battery History
 
 ```
 adb shell dumpsys batterystats --enable full-wake-history
-shell dumpsys batterystats --reset
+adb shell dumpsys batterystats --reset
 ```
 
 ### 数据获取
